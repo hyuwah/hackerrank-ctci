@@ -5,7 +5,21 @@ Koleksi solusi [Cracking the Coding Interview Challenges](https://www.hackerrank
 
 **🚧 Belum selesai 🚧**
 
-
+## Warm-up Challenges
+### Kotlin
+* Sock Merchant
+    * [Challenge](https://www.hackerrank.com/challenges/sock-merchant/problem)
+    * [Solution](./Warmup_Challenges/kotlin/1_sock_merchant.kt)
+* Counting Valleys
+    * [Challenge](https://www.hackerrank.com/challenges/counting-valleys/problem)
+    * [Solution](./Warmup_Challenges/kotlin/2_counting_valleys.kt)
+* Jumping on the Clouds
+    * [Challenge](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)
+    * [Solution](./Warmup_Challenges/kotlin/3_jumping_on_the+clouds.kt)
+* Repeated String
+    * [Challenge](https://www.hackerrank.com/challenges/repeated-string/problem)
+    * [Solution 1](./Warmup_Challenges/kotlin/4_repeated_string_1.kt)
+    * [Solution 2](./Warmup_Challenges/kotlin/4_repeated_string_2.kt)
 ## Data Structures
 ### Java ☕
 * Arrays: Left Rotation
