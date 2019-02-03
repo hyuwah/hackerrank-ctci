@@ -19,7 +19,19 @@ Koleksi solusi [Cracking the Coding Interview Challenges](https://www.hackerrank
 * Repeated String
     * [Challenge](https://www.hackerrank.com/challenges/repeated-string/problem)
     * [Solution 1](./Warmup_Challenges/kotlin/4_repeated_string_1.kt)
-    * [Solution 2](./Warmup_Challenges/kotlin/4_repeated_string_2.kt)
+    * [Solution 2](./Warmup_Challenges/kotlin/4_repeated_string_2.kt) (Shorter but fail on edge cases)
+
+## Arrays
+### Kotlin
+* Arrays: Left Rotation
+    * [Challenge](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
+    * [Solution](.Arrays/kotlin/1_arrays_left_rotation.kt)
+
+
+---
+
+# Old Hackerrank Category
+
 ## Data Structures
 ### Java ☕
 * Arrays: Left Rotation
