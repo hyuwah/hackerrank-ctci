@@ -3,6 +3,8 @@
 Koleksi solusi [Cracking the Coding Interview Challenges](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview) di Hackkerrank
 (dengan komentar 💭)
 
+Checkout my [hackerrank profile](https://www.hackerrank.com/hyuwah)!
+
 **🚧 Belum selesai 🚧**
 
 ## Warm-up Challenges
@@ -26,6 +28,9 @@ Koleksi solusi [Cracking the Coding Interview Challenges](https://www.hackerrank
 * Arrays: Left Rotation
     * [Challenge](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
     * [Solution](.Arrays/kotlin/1_arrays_left_rotation.kt)
+* 2D Array - DS
+    * [Challenge](https://www.hackerrank.com/challenges/2d-array/problem)
+    * [Solution](.Arrays/kotlin/2_2d_array_ds.kt)
 
 
 ---
