@@ -9,6 +9,9 @@ Checkout my [hackerrank profile](https://www.hackerrank.com/hyuwah)!
 
 ## Coding Test
 ### Kotlin
+* Binary Gap
+    * Given a positive integer N, returns the length of its longest binary gap. The function should return 0 if N doesn't contain a binary gap. [link](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)
+    * [Solution](./_Coding_Test/kotlin/binary_gap.kt)
 * Earliest valid time
     * Given 6 digits of number (0..9), find the earliest valid time (HH:mm:ss), print "Not possible" if it is not possible.
     * [Solution](./_Coding_Test/kotlin/earliest_valid_time.kt)

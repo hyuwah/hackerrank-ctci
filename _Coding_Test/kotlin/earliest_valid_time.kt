@@ -3,7 +3,7 @@
  * play.kotlinlang.org 
  */
 
-fun main() {
+fun main(args: Array<String>) {
    
     earliestValidTime(0,0,0,0,0,0)
     earliestValidTime(1,0,2,0,3,0)
