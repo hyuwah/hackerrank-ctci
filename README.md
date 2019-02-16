@@ -7,6 +7,12 @@ Checkout my [hackerrank profile](https://www.hackerrank.com/hyuwah)!
 
 **🚧 Belum selesai 🚧**
 
+## Coding Test
+### Kotlin
+* Earliest valid time
+    * Given 6 digits of number (0..9), find the earliest valid time (HH:mm:ss), print "Not possible" if it is not possible.
+    * [Solution](./_Coding_Test/kotlin/earliest_valid_time.kt)
+
 ## Warm-up Challenges
 ### Kotlin
 * Sock Merchant
@@ -17,7 +23,7 @@ Checkout my [hackerrank profile](https://www.hackerrank.com/hyuwah)!
     * [Solution](./Warmup_Challenges/kotlin/2_counting_valleys.kt)
 * Jumping on the Clouds
     * [Challenge](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)
-    * [Solution](./Warmup_Challenges/kotlin/3_jumping_on_the+clouds.kt)
+    * [Solution](./Warmup_Challenges/kotlin/3_jumping_on_the_clouds.kt)
 * Repeated String
     * [Challenge](https://www.hackerrank.com/challenges/repeated-string/problem)
     * [Solution 1](./Warmup_Challenges/kotlin/4_repeated_string_1.kt)
